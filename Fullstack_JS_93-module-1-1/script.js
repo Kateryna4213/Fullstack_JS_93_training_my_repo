@@ -497,22 +497,20 @@
 
 //   console.log("Лог після циклу");
 
-//   for (let i = 0; i < 15; i += 1) {
-//     console.log( 'before', i);
-//     if (i / 3 === 4 || i / 2 === 5) {
-//       continue;
-//     }
-//     console.log('after', i);
+// for (let i = 0; i < 15; i += 1) {
+//   console.log("before", i);
+//   if (i / 3 === 4 || i / 2 === 5) {
+//     continue;
 //   }
+//   console.log("after", i);
+// }
 
-// a:
-// for (let i = 0; i < 3; i+=1) {
-// console.log('i', i)
-//    b:
-//    for (let j = 0; j < 3; j+=1) {
-//     console.log('  j', j)
-//       if (i === 1 && j === 1) {
-//          break a;
-//       }
-//    }
+// a: for (let i = 0; i < 3; i += 1) {
+//   console.log("i", i);
+//   b: for (let j = 0; j < 3; j += 1) {
+//     console.log("  j", j);
+//     if (i === 1 && j === 1) {
+//       break a;
+//     }
+//   }
 // }
