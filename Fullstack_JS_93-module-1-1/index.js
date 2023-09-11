@@ -33,7 +33,6 @@
 // console.log(age)
 // console.log(typeof age)
 
-
 // ❗️❗️❗️ Додавання із заміною (також є для всіх інших операторів)
 
 // let value = 5;
@@ -116,7 +115,6 @@
 
 // const isNaN = Number.isNaN(dataToNumber);
 // console.log(isNaN);
-
 
 // const num1 = 0.3;
 // const num2 = 0.6;
@@ -223,7 +221,6 @@
 // console.log(word5.slice(-6)); // 'script'
 
 // console.log('    a    '.trim().length) // 1
-
 
 // ❗️❗️❗️  Логічні операторы (&&,  ||,  !)
 
